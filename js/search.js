@@ -2,7 +2,7 @@
 // Copyright (C) 2015 
 // Joseph Pan <http://github.com/wzpan>
 // Shuhao Mao <http://github.com/maoshuhao>
-// Edited by MOxFIVE <http://github.com/MOxFIVE>
+// Edited by GsongE <http://github.com/GsongE>
 
 var searchFunc = function(path, search_id, content_id) {
     'use strict';
