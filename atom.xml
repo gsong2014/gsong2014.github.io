@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Gsong的博客</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://gsong.me/"/>
   <updated>2017-06-19T00:36:01.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://gsong.me/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>gsong</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/06/19/hello-world/"/>
-    <id>http://yoursite.com/2017/06/19/hello-world/</id>
+    <link href="http://gsong.me/2017/06/19/hello-world/"/>
+    <id>http://gsong.me/2017/06/19/hello-world/</id>
     <published>2017-06-19T00:36:01.000Z</published>
     <updated>2017-06-19T00:36:01.000Z</updated>
     
