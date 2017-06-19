@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gsong.me/about/index.html</loc>
+    
+    <lastmod>2017-06-19T09:22:06.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gsong.me/tags/index.html</loc>
+    
+    <lastmod>2017-06-19T09:21:43.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://gsong.me/2017/06/19/hello-world/</loc>
     
     <lastmod>2017-06-19T00:36:01.000Z</lastmod>
