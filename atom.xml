@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Gsong的博客</title>
-  
+  <title>Gsong&#39;s Blog</title>
+  <subtitle>一个专注于技术研究</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://gsong.me/"/>
